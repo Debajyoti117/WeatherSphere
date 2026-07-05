@@ -1,24 +1,28 @@
-<<<<<<< HEAD
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# 🌦️ WeatherSphere
 
-# Run and deploy your AI Studio app
+A modern weather application built with React, TypeScript, and WeatherAPI.
 
-This contains everything you need to run your app locally.
+## Features
 
-View your app in AI Studio: https://ai.studio/apps/e3209ba3-cc74-4919-bb13-8d691d47f241
+- 🌍 Search weather for any city
+- 📅 7-Day Forecast
+- 🌡️ Real-time Temperature
+- 💨 Wind Speed & Direction
+- 💧 Humidity
+- 🌅 Sunrise & Sunset
+- 🌫️ Air Quality Index (AQI)
+- ✨ Glassmorphism UI
+- 📱 Responsive Design
 
-## Run Locally
+## Tech Stack
 
-**Prerequisites:**  Node.js
+- React
+- TypeScript
+- Vite
+- WeatherAPI
+- Axios
+- Vercel
 
+## Live Demo
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
-=======
-# WeatherSphere
->>>>>>> ad3d0a6adc1d0a01d7e0da4ab04b8bb32764ea64
+https://your-vercel-link.vercel.app
