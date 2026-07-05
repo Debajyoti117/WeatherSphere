@@ -1,0 +1,6 @@
+{
+  "name": "WeatherSphere",
+  "description": "A beautiful glassmorphic real-time weather dashboard powered by Gemini Search Grounding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
