@@ -1,4 +1,4 @@
-# 🌦️ WeatherSphere
+# 🌦️ WeatherSphere 
 
 A modern weather application built with React, TypeScript, and WeatherAPI.
 
